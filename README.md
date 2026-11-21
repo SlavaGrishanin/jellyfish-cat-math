@@ -6,6 +6,16 @@ A free math trainer game for kids, built for Android.
 
 **Google Play:** https://play.google.com/store/apps/details?id=ru.vibecaptain.jellyfishcatmath
 
+## Screenshots
+
+<p>
+<img src="screenshots/01-home.png" width="180" alt="Home screen">
+<img src="screenshots/02-quiz.png" width="180" alt="Addition problem">
+<img src="screenshots/03-collection.png" width="180" alt="Collection">
+<img src="screenshots/04-trophies.png" width="180" alt="Trophies">
+<img src="screenshots/05-skill-tree.png" width="180" alt="Skill tree">
+</p>
+
 ## About
 
 - Free, no ads
